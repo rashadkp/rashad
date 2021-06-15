@@ -18,7 +18,7 @@
 
 ## Get in touch:
 
- Personal site: https://kevinjacob2001.github.io/
+ Personal site: https://rashadkp.github.io/ras/
 
 <img src="https://img.icons8.com/fluent/35/000000/linkedin-2.png"/>: https://www.linkedin.com/in/rashadkp/
 
