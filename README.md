@@ -13,8 +13,7 @@
 
 ## :computer: Technology Stack:
 
-  <img src="https://img.icons8.com/color/48/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/dusk/64/000000/javascript.png"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><img src="https://avatars1.githubusercontent.com/u/5658226?s=65&v=4"/>
-<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/dusk/64/000000/javascript.png"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
 
 ## Get in touch:
 
