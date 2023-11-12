@@ -3,12 +3,12 @@
 
 
 
-🙌 A third year student pursuing BTech in Electronics and Communication Engineering at Thangal Kunju Musaliar college of engineering, Kollam.I live in Kannur.💕
+🙌 First year Master student in Computer Vision at IIT Kharagpur.💕
 
 ## :octocat: OPEN TO WORK
-- 🔭 I’m currently learning webdevelopment.
+- 🔭 I’m currently working on Machine Learning,Computer Vision,Data Science.
 
-- 🌱 I’m interested in doing electronics related project works
+- 🌱 I’m interested in doing Deep Learning Related Projectss
 </br>
 
 ## :computer: Technology Stack:
