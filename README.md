@@ -13,7 +13,7 @@
 
 ## :computer: Technology Stack:
 
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png"/><img src="https://img.icons8.com/color/48/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/python"/> <img src="https://img.icons8.com/dusk/64/000000/javascript.png"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png"/><img src="https://img.icons8.com/color/48/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/python"/> <img src="https://img.icons8.com/dusk/64/000000/javascript.png"/> <img src="https://img.icons8.com/color/48/000000/numpy"/><img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
 
 ## Get in touch:
 
