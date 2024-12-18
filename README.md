@@ -6,9 +6,8 @@
 🙌 First year Masters student in Computer Vision at IIT Kharagpur.💕
 
 ## :octocat: OPEN TO WORK
-- 🔭 I’m currently working on Machine Learning,Computer Vision,Data Science.
+- 🔭 I’m currently working on Image signal processing, Computer Vision, Camera Systems.
 
-- 🌱 I’m interested in doing Deep Learning Related Projectss
 </br>
 
 ## :computer: Technology Stack:
