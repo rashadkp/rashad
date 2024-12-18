@@ -3,7 +3,7 @@
 
 
 
-🙌 First year Masters student in Computer Vision at IIT Kharagpur.💕
+ Final year Masters student in Computer Vision at IIT Kharagpur.
 
 ## :octocat: OPEN TO WORK
 - 🔭 I’m currently working on Image signal processing, Computer Vision, Camera Systems.
